@@ -1,1 +1,1 @@
-# ML-For-Beginners
+# Machine-learning-For-Beginners
