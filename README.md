@@ -1,1 +1,1 @@
-# Machine-learning-For-Beginners
+# Machine-learning-Algorithm-with-Python
